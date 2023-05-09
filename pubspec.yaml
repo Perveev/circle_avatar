@@ -2,7 +2,7 @@ name: circle_avatar
 description: Flutter package for circle avatar widget
 
 homepage: https://your-package-homepage.com
-repository: https://link-to-your-repository.com
+repository: https://github.com/Perveev/circle_avatar.git
 email: v.perveev3456@gmail.com
 
 version: 1.0.0+1
